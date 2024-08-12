@@ -37,6 +37,7 @@ FileZilla
 git
 kubectl / oc
 kustomize
+/opt/teams-for-linux/teams-for-linux %U --spellCheckerLanguages pl
 ```
 
 <br /><br />
