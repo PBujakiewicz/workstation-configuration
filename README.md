@@ -29,7 +29,7 @@ Notepad++
 Prospect Mail
 OpenLens
 Meld
-Shutter
+Shutter / flameshot (+prt sc shortcut - sh -c 'flameshot gui')
 KeePassXC
 dbeaver-ce
 Postman
